@@ -155,3 +155,15 @@ The yaml file is a multi-job script that will perform security checks on IaC cod
 - **Step 3 :** Once the workflow completes successfully, refer to the **[DDF SDR Azure Platform Setup and Deployment Guide](https://github.com/transcelerate/ddf-sdr-platform/raw/main/documents/ddf-sdr-azure-platform-setup-and-deployment-guide.pdf)** for additional manual configuration updates to the deployed resources and further deploy SDR Reference Implementation (RI) Application Code
 
 **Important Note :** GitHub Actions does not allow multi-environment deployment setup with Free Pricing Plan. To Deploy to different environments, the GitHub secret values have to be updated with values of the target Azure Environment.
+
+## Requirements to Contribute and Propose Changes
+
+Before participating, you must acknowledge the Contribution License Agreement (CLA).
+
+To acknowledge the CLA, follow these instructions:
+- Click [here](https://github.com/transcelerate/ddf-home/blob/main/contributing.md) to download and carefully read the CLA.
+- Print the document.
+- Complete and sign the document.
+- Scan and email a PDF version of the completed and signed document to [DDF@transceleratebiopharmainc.com](mailto:DDF@transceleratebiopharmainc.com?subject=Signed%20CLA).
+
+NOTE: Keep a copy for your records.
